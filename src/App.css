@@ -1,0 +1,31 @@
+#home-background{
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+#main-links > a {
+  margin: 10px;
+  color: #34495e;
+  text-shadow: -1px -1px 0 #ecf0f1, 1px -1px 0 #ecf0f1, -1px 1px 0 #ecf0f1, 1px 1px 0 #ecf0f1;
+}
+
+h6{
+  color: white;
+}
+
+* {
+  text-decoration: none;
+  font-family: 'Cinzel Decorative';
+}
+#Reflix{
+  color: rgb(7, 121, 197);
+  position: absolute; right: 5px; top: -18px;
+}
